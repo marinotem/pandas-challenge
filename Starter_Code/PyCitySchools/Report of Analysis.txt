@@ -1,0 +1,9 @@
+Charter schools on average tend to have higher math and reading scores along with % of
+student body who passes these courses and overall.
+
+Larger schools see a steeper decrease in students passing math compared to medium and small schools. 
+When spending is between $585-$630 per student, students tend to see the biggest benefits.
+
+Charter schools tend to spend less per student and are more likely to be smaller. One interesting
+thing to look at would be how big class sizes are in District vs Charter schools because I think 
+there are more factors at play here than just spending per student. 
